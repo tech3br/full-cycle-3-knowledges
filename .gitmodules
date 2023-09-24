@@ -1,0 +1,3 @@
+[submodule "desafio-go"]
+	path = desafio-go
+	url = ./desafio-go
